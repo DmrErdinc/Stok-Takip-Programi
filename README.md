@@ -23,7 +23,7 @@
 
 <details>
 <summary><strong>🔐 Giriş Ekranı</strong></summary>
-<br/>
+
 
 ![Giriş Ekranı](docs/screenshots/login.png)
 
