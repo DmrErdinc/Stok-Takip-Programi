@@ -413,6 +413,6 @@ Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
 
 **⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!**
 
-Yapımcı: **Stok Takip Ekibi** • 2026
+Yapımcı: **Erdinç Demir** • 2026
 
 </div>
