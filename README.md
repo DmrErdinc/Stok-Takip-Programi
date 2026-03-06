@@ -18,7 +18,69 @@
 </div>
 
 ---
+## 📸 Ekran Görüntüleri
 
+### 🔐 Giriş Ekranı
+
+![Giriş Ekranı](docs/screenshots/login.png)
+
+Demo hesaplar ile hızlı giriş yapabilirsiniz. Admin ve Kasiyer rolleri mevcuttur.
+
+---
+
+### 🛒 Satış Noktası (POS)
+
+![POS Ekranı](docs/screenshots/pos.png)
+
+Barkod okuyucu desteği, hızlı ürün arama, anlık sepet yönetimi ve nakit/kart/havale ödeme seçenekleri.
+
+---
+
+### 📦 Ürün Yönetimi
+
+![Ürünler](docs/screenshots/products.png)
+
+Ürün ekleme, düzenleme, silme. SKU, barkod, kategori, fiyat ve stok bilgileri tek ekranda.
+
+---
+
+### 📊 Stok Durumu
+
+![Stok](docs/screenshots/stock.png)
+
+Anlık stok seviyeleri, kritik stok uyarıları ve stok hareket geçmişi.
+
+---
+
+### 📋 Satış Geçmişi & İade
+
+![Satış Geçmişi](docs/screenshots/sales-history.png)
+
+Tüm satışlar, kasiyere göre gruplama, tarih filtreleme ve tek tıkla iade işlemi.
+
+---
+
+### ⚠️ Kritik Stok Raporu
+
+![Kritik Stok](docs/screenshots/critical-stock.png)
+
+Minimum stok seviyesinin altına düşen ürünler otomatik listelenir.
+
+---
+
+### 📈 Gün Sonu Raporu
+
+![Gün Sonu](docs/screenshots/daily-report.png)
+
+Günlük satış adedi, brüt ciro, iade tutarı, net ciro ve ödeme tipi dağılımı.
+
+---
+
+### 👥 Kullanıcı Yönetimi
+
+![Kullanıcılar](docs/screenshots/users.png)
+
+Admin panelinden kullanıcı ekleme, rol atama (Admin/Kasiyer) ve hesap yönetimi.
 ## 📸 Ekran Görüntüleri
 
 <details>
