@@ -81,6 +81,7 @@ Günlük satış adedi, brüt ciro, iade tutarı, net ciro ve ödeme tipi dağı
 ![Kullanıcılar](docs/screenshots/users.png)
 
 Admin panelinden kullanıcı ekleme, rol atama (Admin/Kasiyer) ve hesap yönetimi.
+
 ---
 
 ## ✨ Özellikler
